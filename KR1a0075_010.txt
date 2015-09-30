@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易衍義
-#+DATE: 2015-09-23 09:34:54
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:56:37.410032
+#+PROPERTY: ID KR1a0075
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1a0075_WYG_010-1a>¶
 欽定四庫全書¶
 　周易衍義卷十　　　　　　元　胡震　撰¶
@@ -828,4 +830,3 @@
 　¶
 　¶
 　周易衍義卷十¶
-
